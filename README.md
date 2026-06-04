@@ -1,6 +1,6 @@
 <!-- banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:#0f172a,30:#0369a1,70:#0891b2,100:#22d3ee&text=Hi👋 I'm dodolamen&fontSize=60&section=header&animation=twinkling&desc=Backend %26 AI Developer | Python %26 Linux Enthusiast&descSize=22&descAlignY=70" alt="banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,10,12&text=Hi%F0%9F%91%8B%20I'm%20dodolamen&fontSize=55&fontAlignY=42&section=header&animation=twinkling&desc=Backend%20%26%20AI%20Developer%20|%20Python%20%26%20Linux%20Enthusiast&descSize=20&descAlignY=62&fontColor=ffffff&descColor=ccddff&stroke=dodolamen&strokeWidth=0.5" alt="banner" />
 </div>
 
 <br/>
@@ -15,7 +15,7 @@
 <br/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=🚀+A+passionate+developer+from+China;💡+Always+learning+new+things;🎯+Building+cool+open-source+projects" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+A+passionate+developer+from+China;%F0%9F%92%A1+Always+learning+new+things;%F0%9F%8E%AF+Building+cool+open-source+projects" alt="typing" />
 </h3>
 
 <br/>
@@ -124,3 +124,5 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:#22d3ee,50:#0891b2,100:#0f172a&section=footer&text=Thanks for visiting! 🚀&fontSize=30&fontColor=ffffff" alt="footer" />
 </div>
+
+
