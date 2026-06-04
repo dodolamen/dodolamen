@@ -1,3 +1,4 @@
+<div style="background-image: url('你的图片链接');background-size:cover;padding:30px;border-radius:12px;">
 <h1 align="center">Hi 👋, I'm dodolamen</h1>
 <h3 align="center">A passionate developer from China</h3>
 
@@ -6,7 +7,7 @@
 - 🔭 I’m currently working on **Personal open-source projects**
 - 🌱 I’m currently learning **Python / Frontend / AI development**
 - 👯 I’m looking to collaborate on interesting open source projects
-- 📫 How to reach me: **your-email@xxx.com**
+- 📫 How to reach me: **kaisong_xiao@163.com**
 - ⚡ Fun fact: I like exploring new tech stacks and coding every day
 
 <h3 align="left">Connect with me:</h3>
@@ -32,3 +33,4 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodolamen&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
+</div>
