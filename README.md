@@ -1,6 +1,5 @@
-<!-- banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,10,12&text=Hi%F0%9F%91%8B%20I'm%20dodolamen&fontSize=55&fontAlignY=42&section=header&animation=twinkling&desc=Backend%20%26%20AI%20Developer%20|%20Python%20%26%20Linux%20Enthusiast&descSize=20&descAlignY=62&fontColor=ffffff&descColor=ccddff&stroke=dodolamen&strokeWidth=0.5" alt="banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,10,12&text=Hi%F0%9F%91%8B%20I'm%20dodolamen&fontSize=50&fontAlignY=42&section=header&animation=twinkling&desc=Backend%20%26%20AI%20Developer%20|%20Python%20%26%20Linux%20Enthusiast&descSize=18&descAlignY=62&fontColor=ffffff&descColor=ccddff" alt="banner" />
 </div>
 
 <br/>
@@ -22,26 +21,17 @@
 
 ## 🙋 About Me
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🔭 Working on <strong>personal open-source projects</strong></li>
-        <li>🌱 Learning <strong>Python / Frontend / AI development</strong></li>
-        <li>👯 Looking to collaborate on <strong>interesting open-source projects</strong></li>
-        <li>📫 How to reach me: <strong>kaisong_xiao@163.com</strong></li>
-        <li>⚡ Fun fact: I explore new tech stacks and code every day</li>
-      </ul>
-    </td>
-    <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dodolamen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-    </td>
-  </tr>
-</table>
+- 🔭 Working on **personal open-source projects**
+- 🌱 Learning **Python / Frontend / AI development**
+- 👯 Looking to collaborate on **interesting open-source projects**
+- 📫 How to reach me: **kaisong_xiao@163.com**
+- ⚡ Fun fact: I explore new tech stacks and code every day
+
+<br/>
 
 ## 🔗 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://github.com/dodolamen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
@@ -52,6 +42,8 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" />
   </a>
 </p>
+
+<br/>
 
 ## 🛠 Tech Stack
 
@@ -89,17 +81,19 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
 </p>
 
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodolamen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dodolamen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodolamen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dodolamen&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodolamen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 </div>
 
 <br/>
@@ -107,7 +101,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dodolamen&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=dodolamen&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" />
 </div>
 
 <br/>
@@ -115,14 +109,11 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/dodolamen/dodolamen/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-  <br/>
-  <sub><i>(Requires <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">snake generator action</a>)</i></sub>
+  <img width="100%" src="https://raw.githubusercontent.com/dodolamen/dodolamen/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
-<!-- footer wave -->
+<br/>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:#22d3ee,50:#0891b2,100:#0f172a&section=footer&text=Thanks for visiting! 🚀&fontSize=30&fontColor=ffffff" alt="footer" />
 </div>
-
-
