@@ -77,26 +77,46 @@
 
 <br/>
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=dodolamen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img width="49%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=dodolamen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=dodolamen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    alt="stats" 
+  />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=dodolamen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    alt="top langs" 
+  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://git-streak-stats.vercel.app/?user=dodolamen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=dodolamen&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" />
+  <img 
+    width="49%" 
+    src="https://github-readme-streak-stats-tw.vercel.app/?user=dodolamen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+    alt="streak" 
+  />
+  <img 
+    width="49%" 
+    src="https://github-profile-trophy.vercel.app/?username=dodolamen&theme=tokyonight&no-frame=true&margin-w=15" 
+    alt="trophies" 
+  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dodolamen&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img 
+    width="100%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dodolamen&theme=tokyo-night&hide_border=true&area=true" 
+    alt="activity graph" 
+  />
 </div>
-
 <br/>
 
 ## 🐍 Contribution Snake
