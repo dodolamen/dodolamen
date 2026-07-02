@@ -25,6 +25,7 @@
 
 ## 🔗 Connect With Me
 [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/dodolamen)](https://ghfind.com/u/dodolamen)
+https://ghfind.com/api/card/dodolamen?theme=dark&qr=1
 <p align="left">
   <a href="https://github.com/dodolamen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
